@@ -1,6 +1,6 @@
 # ProjCpp Template (MacOS)
 
-This is cpp project templet created on MacOS. <br/>
+Cpp project created on MacOS. <br/>
 Uses cmake & make in Terminal to compile.
 
 Here are the compile instruction
