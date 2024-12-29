@@ -1,4 +1,4 @@
-# ProjCpp Templet (MacOS)
+# ProjCpp Template (MacOS)
 
 This is cpp project templet created on MacOS. <br/>
 Uses cmake & make in Terminal to compile.
